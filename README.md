@@ -5,24 +5,23 @@
 <br/>
 
 hi, i'm **landon**. i build stuff, break stuff, and sometimes use ai to do shit faster 
-
 ---
 
 ### skills
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=debian" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=minecraft" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://debian.org"><img src="https://skillicons.dev/icons?i=debian" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://minecraft.net"><img src="https://skillicons.dev/icons?i=minecraft" /></a>
 </p>
 
 ---
