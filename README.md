@@ -5,6 +5,7 @@
 <br/>
 
 hi, i'm **landon**. i build stuff, break stuff, and occasionally use ai to do both faster.
+creds to [lachamelon](https://github.com/lachameleon)
 
 ---
 
