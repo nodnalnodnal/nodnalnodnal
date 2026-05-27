@@ -4,7 +4,7 @@
 
 <br/>
 
-hi, i'm **landon**. i build stuff, break stuff, and sometimes use ai to do shit faster 
+hi i'm **nodnal**. i build stuff, break stuff, and sometimes use ai to do shit faster 
 ---
 
 ### skills
