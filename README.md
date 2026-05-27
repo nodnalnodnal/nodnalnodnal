@@ -4,7 +4,7 @@
 
 <br/>
 
-hi, i'm **landon**. i build stuff, break stuff, and occasionally use ai to do both faster. creds where creds is needed
+hi, i'm **landon**. i build stuff, break stuff, and occasionally use ai to do shit faster creds where creds needed
 
 ---
 
