@@ -4,7 +4,7 @@
 
 <br/>
 
-hi, i'm **landon**. i build stuff, break stuff, and occasionally use ai to do shit faster creds where creds needed
+hi, i'm **landon**. i build stuff, break stuff, and sometimes use ai to do shit faster 
 
 ---
 
@@ -23,27 +23,6 @@ hi, i'm **landon**. i build stuff, break stuff, and occasionally use ai to do sh
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=minecraft" /></a>
-</p>
-
----
-
-### stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodnalnodnal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodnalnodnal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nodnalnodnal&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodnalnodnal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
